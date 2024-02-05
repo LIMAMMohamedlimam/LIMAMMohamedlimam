@@ -15,5 +15,5 @@ Je suis toujours à la recherche d'opportunités pour collaborer sur des projets
 
 ## 📬 Contact
 Pour toute collaboration, question ou simplement pour dire bonjour, vous pouvez me joindre ici:
-- **Email**: [lmz.mohamedlimam@gmail.com]
+- **Email**: lmz.mohamedlimam@gmail.com .
 - **LinkedIn**: [www.linkedin.com/in/mohamedlimam]
