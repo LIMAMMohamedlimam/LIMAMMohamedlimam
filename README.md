@@ -1,35 +1,3 @@
-Absolutely, I'd be happy to help you craft a professional README file for your GitHub portfolio, Mohmed! Let's start by outlining the structure, and then we'll flesh it out with content.
-
-### Outline:
-
-1. **Introduction**
-   - Brief personal introduction
-   - Mention passion for artificial intelligence and its applications in health
-
-2. **Education**
-   - Mention your current status as a computer science student
-
-3. **Portfolio Overview**
-   - Purpose of your GitHub portfolio
-   - How it reflects your growth and passion in AI, especially in healthcare
-
-4. **Project Highlights**
-   - Briefly introduce a few key projects that showcase your work in real-world applications
-
-5. **Collaboration and Interests**
-   - Express your enthusiasm for collaborating on projects that have real-world impact
-   - Mention your interest in solving real problems through your work
-
-6. **Contact Information**
-   - Provide ways to reach out for collaborations or inquiries
-
-7. **Language Proficiency**
-   - Highlight your preference for French in professional communications
-
-Now, let's draft the README file based on this outline:
-
----
-
 # Bienvenue sur mon Portfolio GitHub - Mohmed Limam
 
 ## 🌟 Introduction
